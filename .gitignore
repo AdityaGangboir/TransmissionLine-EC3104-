@@ -1,0 +1,14 @@
+# Python cache and environment
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Dataset folders
+dataset_large/
+
+# Virtual environment
+tx_env/
