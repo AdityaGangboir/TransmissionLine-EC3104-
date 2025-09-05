@@ -7,8 +7,5 @@ __pycache__/
 # Jupyter checkpoints
 .ipynb_checkpoints/
 
-# Dataset folders
-dataset_large/
-
 # Virtual environment
 tx_env/
